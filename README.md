@@ -10,6 +10,6 @@ With the approaches described in this paper, we have demonstrated many of the bu
 
 # Requirements
 Python 3.6<br>
-Tensorflow-gpu 1.12.0<br>
+Tensorflow-gpu 1.14.0<br>
 Keras 2.2.4<br>
 Numpy 1.16.1<br>
